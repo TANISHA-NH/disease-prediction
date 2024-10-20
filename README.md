@@ -124,9 +124,3 @@ The prediction results can be output to `output.csv` or displayed in the console
 
 Contributions are welcome. Please create a new branch for each feature or bug fix, and submit a pull request for review.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
-
-This template should be copied as-is into the README.md file in your GitHub repository. Adjust the project name, repository URL, and other details as needed to fit your specific project.
